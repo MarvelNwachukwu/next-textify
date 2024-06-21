@@ -8,6 +8,7 @@ To use next-textify in your project, you can install it via npm:
 Copy
 
 npm install textify
+
 Usage
 
 # next-textify
