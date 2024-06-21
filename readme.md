@@ -2,18 +2,6 @@
 
 next-textify is a JavaScript library that provides various text transformation functions. It includes functions for capitalizing, lowercasing, uppercasing, reversing, trimming, truncating, checking for emptiness, converting to kebab case, snake case, camel case, and pascal case. It also includes functions for counting words, characters, sentences, paragraphs, lines, and tokenizing text.
 
-Installation
-To use next-textify in your project, you can install it via npm:
-
-Copy
-
-npm install textify
-Usage
-
-# next-textify
-
-next-textify is a JavaScript library that provides various text transformation functions. It includes functions for capitalizing, lowercasing, uppercasing, reversing, trimming, truncating, checking for emptiness, converting to kebab case, snake case, camel case, and pascal case. It also includes functions for counting words, characters, sentences, paragraphs, lines, and tokenizing text.
-
 ## Installation
 
 To use next-textify in your project, you can install it via npm:
