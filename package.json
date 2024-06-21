@@ -1,6 +1,6 @@
 {
   "name": "next-textify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for text manipulation",
   "main": "index.js",
   "types": "index.d.ts",
